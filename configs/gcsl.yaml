@@ -1,0 +1,13 @@
+backbone: openai/clip-vit-large-patch14
+ranks: [4, 2, 1]
+nst: true
+lambda_orth: 1.0
+epochs: 10
+batch_size: 64
+lr: 0.0002
+weight_decay: 0.0005
+seed: 1024
+workers: 4
+train_frames: 8
+test_frames: 32
+amp: true

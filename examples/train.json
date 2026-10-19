@@ -1,0 +1,4 @@
+[
+  {"video_id": "real_001", "label": 0, "frames": ["real/001/000.png", "real/001/001.png"]},
+  {"video_id": "fake_001", "label": 1, "frames": ["fake/001/000.png", "fake/001/001.png"]}
+]

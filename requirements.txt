@@ -1,0 +1,7 @@
+torch==2.5.1
+transformers==4.46.3
+numpy>=1.26,<3
+Pillow>=10.4,<12
+PyYAML>=6.0,<7
+scikit-learn>=1.5,<2
+tqdm>=4.66,<5
